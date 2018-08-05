@@ -13,6 +13,7 @@
 		58BC0DA421173365009DD7A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58BC0DA321173365009DD7A3 /* Assets.xcassets */; };
 		58BC0DA721173365009DD7A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58BC0DA521173365009DD7A3 /* LaunchScreen.storyboard */; };
 		58BC0DB221173365009DD7A3 /* iOSReviewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58BC0DB121173365009DD7A3 /* iOSReviewTests.swift */; };
+		58BC0DC021173488009DD7A3 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58BC0DBF21173488009DD7A3 /* TwoSum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		58BC0DAD21173365009DD7A3 /* iOSReviewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOSReviewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		58BC0DB121173365009DD7A3 /* iOSReviewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSReviewTests.swift; sourceTree = "<group>"; };
 		58BC0DB321173365009DD7A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58BC0DBF21173488009DD7A3 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				58BC0DBC2117340D009DD7A3 /* Supporting Files */,
+				58BC0DBF21173488009DD7A3 /* TwoSum.swift */,
 			);
 			path = iOSReview;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 			files = (
 				58BC0D9F21173363009DD7A3 /* ViewController.swift in Sources */,
 				58BC0D9D21173363009DD7A3 /* AppDelegate.swift in Sources */,
+				58BC0DC021173488009DD7A3 /* TwoSum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
