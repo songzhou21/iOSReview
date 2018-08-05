@@ -18,6 +18,8 @@ class ViewController: UIViewController {
 
     func algorithmTest() -> Void {
         assert(twoSum(nums: [1, 2, 3], 5))
+        
+        print(reverseWords(s: "the sky is blue")!)
     }
     
 }
