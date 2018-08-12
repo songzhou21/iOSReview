@@ -45,6 +45,9 @@ class List {
     }
 }
 
+/*
+ 给出一个链表和一个值 x，要求将链表中所有小于 x 的值放到左边，所有大于或等于 x 的值放到右边，并且原链表的节点顺序不能变
+ */
 func partition(_ head: ListNode?, _ x: Int) -> ListNode? {
     /// dummy 节点
     let prevDummy = ListNode(0), postDummy = ListNode(0)
