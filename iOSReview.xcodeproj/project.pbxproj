@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		586ADADC21206CBE003D6849 /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 586ADADB21206CBE003D6849 /* ListNode.swift */; };
 		58BC0D9D21173363009DD7A3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58BC0D9C21173363009DD7A3 /* AppDelegate.swift */; };
 		58BC0D9F21173363009DD7A3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58BC0D9E21173363009DD7A3 /* ViewController.swift */; };
 		58BC0DA221173363009DD7A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58BC0DA021173363009DD7A3 /* Main.storyboard */; };
@@ -28,6 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		586ADADB21206CBE003D6849 /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
 		58BC0D9921173363009DD7A3 /* iOSReview.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSReview.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		58BC0D9C21173363009DD7A3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		58BC0D9E21173363009DD7A3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 			children = (
 				58BC0DBF21173488009DD7A3 /* TwoSum.swift */,
 				58BC0DC12117361E009DD7A3 /* StringReverse.swift */,
+				586ADADB21206CBE003D6849 /* ListNode.swift */,
 				58BC0DBC2117340D009DD7A3 /* Supporting Files */,
 			);
 			path = iOSReview;
@@ -212,6 +215,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				58BC0D9F21173363009DD7A3 /* ViewController.swift in Sources */,
+				586ADADC21206CBE003D6849 /* ListNode.swift in Sources */,
 				58BC0DC22117361E009DD7A3 /* StringReverse.swift in Sources */,
 				58BC0D9D21173363009DD7A3 /* AppDelegate.swift in Sources */,
 				58BC0DC021173488009DD7A3 /* TwoSum.swift in Sources */,
